@@ -1,7 +1,6 @@
 # 📚 Bookstore-API
 
 ![Go](https://img.shields.io/badge/Go-1.20-blue.svg)
-![Build](https://github.com/JpUnique/bookstore-api/actions/workflows/go.yml/badge.svg)
 ![License](https://img.shields.io/github/license/JpUnique/bookstore-api)
 ![Issues](https://img.shields.io/github/issues/JpUnique/bookstore-api)
 
@@ -25,29 +24,6 @@ A RESTful API for managing books in a bookstore. Built with Go and GORM, the API
 - 📦 JSON-based request and response format
 
 ---
-
-## 📁 Project Structure
-
-```
-
-bookstore-api/
-│
-├── controllers/         # API logic (handlers)
-│   └── book\_controller.go
-│
-├── models/              # Database models & ORM logic
-│   └── book.go
-│
-├── config/              # Database connection logic
-│   └── app.go
-│
-├── utils/               # Body parsing utilities
-│   └── utils.go
-│
-├── main.go              # Entry point
-└── go.mod / go.sum      # Dependencies
-
-````
 
 ---
 
@@ -167,6 +143,6 @@ go run main.go
 
 **JpUnique**
 Backend and Data Engineer | Golang Enthusiast
-📫 [LinkedIn](https://www.linkedin.com/in/johnpaul-nwaekwu-5a7053352/) | 📧 [your.email@example.com](mail:jpunique1234@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/johnpaul-nwaekwu-5a7053352/) | 📧 [jpunique1234@gmail.com](mail:jpunique1234@gmail.com)
 
 ---
