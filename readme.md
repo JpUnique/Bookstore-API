@@ -113,7 +113,7 @@ DELETE /books/{bookId}
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/bookstore-api.git
+git clone https://github.com/JpUnique/bookstore-api.git
 cd bookstore-api
 ```
 
@@ -165,19 +165,8 @@ go run main.go
 
 ## 🧑‍💻 Author
 
-**David Mark**
-Backend Developer | Golang Enthusiast
-📫 [LinkedIn](https://www.linkedin.com/in/your-link) | 📧 [your.email@example.com](mailto:your.email@example.com)
+**JpUnique**
+Backend and Data Engineer | Golang Enthusiast
+📫 [LinkedIn](https://www.linkedin.com/in/johnpaul-nwaekwu-5a7053352/) | 📧 [your.email@example.com](mail:jpunique1234@gmail.com)
 
 ---
-
-## 📄 License
-
-This project is open-sourced under the MIT License.
-
-```
-
----
-
-Would you like me to generate a **badge section**, **GitHub Actions CI config**, or a **Dockerfile** to make your repo even more professional?
-```
